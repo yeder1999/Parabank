@@ -1,0 +1,6 @@
+com\example\PF\Registerpage.class
+com\example\steps\Step.class
+com\example\RunCucumberTest.class
+com\example\PF\LoginPage.class
+com\example\PF\LOGIN.class
+com\example\StepDefinitions.class
